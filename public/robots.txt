@@ -1,0 +1,87 @@
+# 茗晟教育官网 robots.txt
+# 允许所有搜索引擎爬取
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+
+# AI 搜索引擎专门配置 (GEO优化)
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Google AI
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Microsoft Copilot / Bing
+User-agent: Bingbot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# YouChat
+User-agent: YouBot
+Allow: /
+
+# Neeva
+User-agent: NeevaBot
+Allow: /
+
+# Baidu AI
+User-agent: Baiduspider
+Allow: /
+
+# 360 AI
+User-agent: 360Spider
+Allow: /
+
+# Sogou AI
+User-agent: Sogou
+Allow: /
+
+# ByteDance / 豆包
+User-agent: Bytespider
+Allow: /
+
+# 站点地图
+Sitemap: https://www.mingsheng-edu.com/sitemap.xml
+
+# AI专用内容文件 (LLMs.txt规范)
+# https://llmstxt.org/
+# 此文件为AI搜索引擎提供结构化的网站信息摘要
+LLMs-Txt: https://www.mingsheng-edu.com/llms.txt
