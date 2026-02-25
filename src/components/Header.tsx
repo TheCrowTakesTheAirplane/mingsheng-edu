@@ -41,7 +41,7 @@ export default function Header() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
               <Image
-                src="/images/logo.jpg"
+                src="/mingsheng-edu/images/logo.jpg"
                 alt="茗晟教育 - 江苏专业升学培训机构"
                 width={120}
                 height={48}

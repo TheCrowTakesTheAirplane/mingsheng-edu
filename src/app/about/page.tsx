@@ -261,7 +261,7 @@ export default function AboutPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/classroom-1.jpg"
+                  src="/mingsheng-edu/images/classroom-1.jpg"
                   alt="茗晟教育现代化教室"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -274,7 +274,7 @@ export default function AboutPage() {
               </div>
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/classroom-2.jpg"
+                  src="/mingsheng-edu/images/classroom-2.jpg"
                   alt="茗晟教育小班授课"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -297,7 +297,7 @@ export default function AboutPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/dormitory.jpg"
+                  src="/mingsheng-edu/images/dormitory.jpg"
                   alt="茗晟教育学生宿舍"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -310,7 +310,7 @@ export default function AboutPage() {
               </div>
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/activity-room-1.jpg"
+                  src="/mingsheng-edu/images/activity-room-1.jpg"
                   alt="茗晟教育活动室"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -323,7 +323,7 @@ export default function AboutPage() {
               </div>
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/activity-room-2.jpg"
+                  src="/mingsheng-edu/images/activity-room-2.jpg"
                   alt="茗晟教育休闲区"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -346,7 +346,7 @@ export default function AboutPage() {
             <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/canteen.jpg"
+                  src="/mingsheng-edu/images/canteen.jpg"
                   alt="茗晟教育食堂环境"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -358,7 +358,7 @@ export default function AboutPage() {
               </div>
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/food-1.jpg"
+                  src="/mingsheng-edu/images/food-1.jpg"
                   alt="茗晟教育营养餐"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -370,7 +370,7 @@ export default function AboutPage() {
               </div>
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/food-2.jpg"
+                  src="/mingsheng-edu/images/food-2.jpg"
                   alt="茗晟教育丰富菜品"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -382,7 +382,7 @@ export default function AboutPage() {
               </div>
               <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/food-3.jpg"
+                  src="/mingsheng-edu/images/food-3.jpg"
                   alt="茗晟教育美味佳肴"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"

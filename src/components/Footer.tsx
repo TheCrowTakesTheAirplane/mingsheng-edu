@@ -36,7 +36,7 @@ export default function Footer() {
           <div className="col-span-2 sm:col-span-2 md:col-span-1">
             <div className="mb-4">
               <Image
-                src="/images/logo.jpg"
+                src="/mingsheng-edu/images/logo.jpg"
                 alt="茗晟教育 - 江苏专业升学培训机构"
                 width={120}
                 height={48}
